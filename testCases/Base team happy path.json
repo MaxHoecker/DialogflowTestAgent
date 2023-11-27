@@ -1,0 +1,170 @@
+{
+  "name": "e5aad440-9ad7-4c12-a38f-f6f2e2e9ed17",
+  "displayName": "Base team happy path",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Hi"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Default Welcome Intent"
+      },
+      "currentPage": {
+        "name": "favorite team member",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "Hi! I'm Jack bot" ]
+      }, {
+        "text": [ "Who's your favorite team member?" ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Mark"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "favorite team member",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "Mark mark mark markmark. I do love how he breaks things" ]
+      }, {
+        "text": [ "Now let me ask again..." ]
+      }, {
+        "text": [ "Who's your favorite team member?" ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Pratul"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "favorite team member",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "He just wants a home T.T" ]
+      }, {
+        "text": [ "Now let me ask again..." ]
+      }, {
+        "text": [ "Who's your favorite team member?" ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "AJ"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "favorite team member",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "I hear he really enjoys Macs" ]
+      }, {
+        "text": [ "Now let me ask again..." ]
+      }, {
+        "text": [ "Who's your favorite team member?" ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "Matt"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "currentPage": {
+        "name": "favorite team member",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "Python man" ]
+      }, {
+        "text": [ "Now let me ask again..." ]
+      }, {
+        "text": [ "Who's your favorite team member?" ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  }, {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "I'm done"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "prebuilt_components_confirmation_done"
+      },
+      "currentPage": {
+        "name": "End Session",
+        "flow": "Favorite team member"
+      },
+      "textResponses": [ {
+        "text": [ "ok." ]
+      } ],
+      "currentFlow": {
+        "name": "Favorite team member"
+      }
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1693925180,
+    "nanos": 951999000
+  },
+  "testConfig": {
+    "trackingParameters": [ "favorite_person" ],
+    "flow": "Favorite team member",
+    "page": "Start Page"
+  }
+}

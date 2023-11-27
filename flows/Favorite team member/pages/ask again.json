@@ -1,0 +1,26 @@
+{
+  "name": "a7da2281-0252-4d31-b3cf-eed96a6c025c",
+  "displayName": "ask again",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "setParameterActions": [ {
+      "parameter": "favorite_person",
+      "value": null
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "true = true",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Now let me ask again..." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "favorite team member",
+    "name": "31df3320-4148-48f7-8606-b1dd74f5505a"
+  } ]
+}
