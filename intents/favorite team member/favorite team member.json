@@ -1,0 +1,13 @@
+{
+  "name": "74f24e22-f984-4c31-b6f2-1d780208d382",
+  "displayName": "favorite team member",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 17
+}
