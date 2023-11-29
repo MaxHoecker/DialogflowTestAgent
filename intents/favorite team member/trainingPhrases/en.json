@@ -54,13 +54,7 @@
     "languageCode": "en"
   }, {
     "parts": [ {
-      "text": "Sue",
-      "parameterId": "person"
-    }, {
-      "text": " "
-    }, {
-      "text": "Jagodzinski",
-      "parameterId": "person"
+      "text": "Changing an intent phrase"
     } ],
     "repeatCount": 1,
     "languageCode": "en"
