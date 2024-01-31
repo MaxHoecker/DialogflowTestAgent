@@ -1,35 +1,11 @@
 {
   "defaultLanguageCode": "en",
-  "timeZone": "America/New_York",
+  "timeZone": "America/Los_Angeles",
   "projectNumber": 1030526913952,
-  "speechToTextSettings": {
-  
-  },
   "startFlow": "Default Start Flow",
   "advancedSettings": {
-    "audioExportGcsDestination": {
-    
-    },
-    "speechSettings": {
-      "endpointerSensitivity": 90,
-      "noSpeechTimeout": {
-        "seconds": 5
-      }
-    },
-    "playbackInterruptionSettings": {
-    
-    },
     "loggingSettings": {
     
     }
-  },
-  "speakerIdSettings": {
-  
-  },
-  "textToSpeechSettings": {
-  
-  },
-  "duplexSettings": {
-  
   }
 }

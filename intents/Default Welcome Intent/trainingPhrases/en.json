@@ -1,6 +1,6 @@
 {
   "trainingPhrases": [ {
-    "id": "2929a4cd-7e6c-4ee3-a222-c865aedf9751",
+    "id": "bf1af8f4-16c1-442e-adcd-af015345043c",
     "parts": [ {
       "text": "just going to say hi",
       "auto": true
@@ -8,7 +8,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "6af63a9e-e446-4609-89de-396fd570fac6",
+    "id": "879da307-7c5d-451f-bfbb-c32d2fa36382",
     "parts": [ {
       "text": "heya",
       "auto": true
@@ -16,7 +16,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "c0bbad5f-993b-417b-83b6-aa96262677e4",
+    "id": "8bd8d05e-ff58-4fc3-8264-821e8e922b72",
     "parts": [ {
       "text": "hello hi",
       "auto": true
@@ -24,7 +24,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "a2e24375-10d5-4726-90ef-10742110c940",
+    "id": "b09981fb-708d-407f-966e-8bd4bac539f3",
     "parts": [ {
       "text": "howdy",
       "auto": true
@@ -32,7 +32,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "482f5bbd-888e-4b56-b9f6-a3e134f3b40d",
+    "id": "32c3d87c-dc92-46b7-a3d9-fc0a26680ac1",
     "parts": [ {
       "text": "hey there",
       "auto": true
@@ -40,7 +40,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "6626e4d5-e568-490b-9fc4-868a9a9c4b13",
+    "id": "f14f046b-471e-4b43-b77d-0390fe94b377",
     "parts": [ {
       "text": "hi there",
       "auto": true
@@ -48,7 +48,7 @@
     "repeatCount": 2,
     "languageCode": "en"
   }, {
-    "id": "56ad0d15-11f5-4365-8756-9067a0db41be",
+    "id": "ac00d854-b80a-455f-959e-492e1be433d9",
     "parts": [ {
       "text": "greetings",
       "auto": true
@@ -56,7 +56,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "81100361-30b7-4154-a421-a6f089978e23",
+    "id": "8e4c6a9c-a459-48e9-abb3-6da8e4b39768",
     "parts": [ {
       "text": "hey",
       "auto": true
@@ -64,7 +64,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "c739b390-4358-448b-a3e0-35f4338c83ff",
+    "id": "9c8101fa-dc84-481a-9658-617f625f61cb",
     "parts": [ {
       "text": "long time no see",
       "auto": true
@@ -72,7 +72,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "f34fcaf8-a69a-4a39-9fae-641ecbaf6a3a",
+    "id": "14d31320-ab3b-4953-ad8b-a7f99594210f",
     "parts": [ {
       "text": "hello",
       "auto": true
@@ -80,7 +80,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "c2656371-5190-43b0-b9fe-760d58dabea3",
+    "id": "83ceb8f9-37d5-40bf-a43a-3b506a411396",
     "parts": [ {
       "text": "lovely day isn't it",
       "auto": true
@@ -88,7 +88,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "6f044d60-cbf4-452c-8bac-db9b692c4a37",
+    "id": "904ac704-0074-454d-82aa-1b2e8376a5e0",
     "parts": [ {
       "text": "I greet you",
       "auto": true
@@ -96,7 +96,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "9fbd457c-33e5-4c6b-ba2b-cdc684d5c076",
+    "id": "a6abc05f-e9cc-4201-836e-c9f049b30195",
     "parts": [ {
       "text": "hello again",
       "auto": true
@@ -104,7 +104,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "32c877d5-4769-4b90-a788-b715e0f898c4",
+    "id": "e3c98d3d-409b-478a-9bb1-7b4a965bf2f2",
     "parts": [ {
       "text": "hi",
       "auto": true
@@ -112,7 +112,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "0e88ec8b-8baf-47bf-9ac2-00cea424dc73",
+    "id": "1861df58-a4e2-44cf-9eae-47e376c14f01",
     "parts": [ {
       "text": "hello there",
       "auto": true
@@ -120,7 +120,7 @@
     "repeatCount": 1,
     "languageCode": "en"
   }, {
-    "id": "fb694fe6-1d00-4b17-8df8-d399e141bb52",
+    "id": "1b59468d-fe0c-4ad4-9e05-540702e72eb9",
     "parts": [ {
       "text": "a good day",
       "auto": true
